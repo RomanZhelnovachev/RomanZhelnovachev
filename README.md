@@ -20,7 +20,7 @@
 
 ## 📦 Мои проекты
 
-### 🔹 [Search and Listing Platform]([https://github.com/RomanZhelnovachev/spring-boot-event-booking](https://github.com/RomanZhelnovachev/search-listings-platform))
+### 🔹 [Search and Listing Platform](https://github.com/RomanZhelnovachev/search-listings-platform)
 Микросервисная платформа недвижимости для поиска, публикации и управления объявлениями с разделением **write-side** и **read-side** на основе **CQRS**.
 **Функциональность:**
 - Поиск недвижимости 4 типов с динамической фильтрацией и пагинацией
